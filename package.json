@@ -1,0 +1,31 @@
+{
+  "name": "all-currency-convertor",
+  "version": "0.0.1",
+  "description": "This npm package for convert all international currency",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajib-sadhu/all-currency-convertor.git"
+  },
+  "keywords": [
+    "npm",
+    "currency",
+    "doller",
+    "rupees",
+    "cobertor",
+    "international"
+  ],
+  "author": "Rajib Sadhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajib-sadhu/all-currency-convertor/issues"
+  },
+  "homepage": "https://github.com/rajib-sadhu/all-currency-convertor#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
